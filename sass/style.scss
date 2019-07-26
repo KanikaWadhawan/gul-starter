@@ -1,4 +1,4 @@
-body{
-    background: blue;
-    color:white;
-}
+@import 'reset';
+@import 'variables';
+@import 'mixins';
+@import 'main';
